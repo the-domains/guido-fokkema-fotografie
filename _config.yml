@@ -1,0 +1,28 @@
+name: Guido Fokkema Fotografie
+favicon: null
+layout_spectrum: 0.313326631905511
+typography_spectrum: 0.5095576154999435
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.13109743688255548
+  lightness: 0.5178013304248452
+  saturation: 0.6451649230439216
+  rhythmicContrast: 0.09568250109441578
+purpose: []
