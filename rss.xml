@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Guido Fokkema Fotografie]]></title>
+        <description><![CDATA[Guido Fokkema Fotografie]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 09 Feb 2016 12:04:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welkom
+
+Leuk dat je mijn website bezoekt! Hier krijg je alvast een goede indruk van de verschillende soorten fotografie waar ik me zoal mee bezig houd.
+
+In mijn portfolio vind je vier onderdelen: bruidsfotografie, loveshoots, portretten en travel&nature.
+Vier verschillende takken van fotografie waar ik heerlijk mijn ei in kwijt kan.
+
+Ben je na het bekijken van de site nieuwsgierig en wil je meer weten? Neem dan contact met me op door het contactformulier in te vullen en ik beantwoord graag je vragen per email. Of we plannen natuurlijk een afspraak in mijn kantoor in Gorinchem. Onder het genot van een kopje koffie hoor ik graag je wensen en ideeën. Samen stellen we dan een passend plan op.</p>]]></description>
+            <link>undefined69307d20-0b2b-4fe4-a022-110c8198ed43/index.html</link>
+            <guid isPermaLink="false">69307d20-0b2b-4fe4-a022-110c8198ed43</guid>
+            <pubDate>Tue, 09 Feb 2016 12:04:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
